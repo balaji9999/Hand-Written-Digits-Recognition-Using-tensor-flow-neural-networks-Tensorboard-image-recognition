@@ -10,7 +10,7 @@ In this project I am going to predict the hand written digit images using tensor
 
 <h3>EXPLANATION OF CODE</h3>
 
-see the file DOCUMENT.doc
+see the file DOCUMENT.doc in uploaded attachments
 
 <h3>SOME SNIPPETS OF TENSOR BOARD</h3>
 <h4>ACCURACY & LOSS</h4>
