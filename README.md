@@ -7,3 +7,5 @@ To make machines more intelligent, the developers are diving into machine learni
 <h3>Hand Written Digits Recognition:</h3>
 The handwritten digit recognition is the ability of computers to recognize human handwritten digits. It is a hard task for the machine because handwritten digits are not perfect and can be made with many different flavours. The handwritten digit recognition is the solution to this problem which uses the image of a digit and recognizes the digit present in the image.
 In this project I am going to predict the hand written digit images using tensor flow and use tensorboard to see the weight bias accuracy and loss metricsand graphs.
+
+<h3>SOME SNIPPETS OF TENSOR BOARD</h3>
