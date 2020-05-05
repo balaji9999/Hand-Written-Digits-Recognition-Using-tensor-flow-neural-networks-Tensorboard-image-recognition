@@ -14,3 +14,6 @@ see the file DOCUMENT.doc
 
 <h3>SOME SNIPPETS OF TENSOR BOARD</h3>
 <img src="img/101.PNG">
+<img src="img/102.PNG">
+<img src="img/103.PNG">
+<img src="img/104.PNG">
