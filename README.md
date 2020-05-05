@@ -13,3 +13,4 @@ In this project I am going to predict the hand written digit images using tensor
 see the file DOCUMENT.doc
 
 <h3>SOME SNIPPETS OF TENSOR BOARD</h3>
+<img src="img/101.PNG">
