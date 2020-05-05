@@ -13,7 +13,11 @@ In this project I am going to predict the hand written digit images using tensor
 see the file DOCUMENT.doc
 
 <h3>SOME SNIPPETS OF TENSOR BOARD</h3>
+<h4>ACCURACY & LOSS</h4>
 <img src="img/101.PNG">
+<h4>GRAPHS(NODES & EDGES)</h4>
 <img src="img/102.PNG">
+<h4>DISTRIBUTION</h4>
 <img src="img/103.PNG">
+<h4>WEIGHTS AND BIAS</h4>
 <img src="img/104.PNG">
